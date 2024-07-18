@@ -7,6 +7,7 @@ A curated list of awesome ton security resources
 - [Things to Focus on while Working with TON Blockchain](https://docs.ton.org/develop/smart-contracts/security/things-to-focus)
 - [Random number generation](https://docs.ton.org/develop/smart-contracts/guidelines/random-number-generation)
 - [Generation of block random seed](https://docs.ton.org/develop/smart-contracts/security/random)
+- [TON Connect for Security TON Connect](https://docs.ton.org/develop/dapps/ton-connect/security)
 
 
 ## CTF
