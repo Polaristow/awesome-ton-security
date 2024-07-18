@@ -3,7 +3,9 @@ A curated list of awesome ton security resources
 ## Articles and Blogs
 - [Secure Smart Contract Programming in FunC: Top 10 Tips for TON Developers](https://blog.ton.org/secure-smart-contract-programming-in-func)
 ## CTF
-- [TON Hack Challenge](https://docs.ton.org/develop/smart-contracts/security/ton-hack-challenge-1)
+- TON Hack Challenge
+  - [Code](https://github.com/ton-blockchain/hack-challenge-1)
+  - [Writeup](https://docs.ton.org/develop/smart-contracts/security/ton-hack-challenge-1)
 ## Audit Report
 
 ## Bug Bounty
