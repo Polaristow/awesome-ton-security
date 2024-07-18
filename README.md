@@ -1,7 +1,14 @@
 # awesome-ton-security
 A curated list of awesome ton security resources
 ## Articles and Blogs
+- [TACT FOR TON, UNCOVERING THIS LANGUAGE FEATURES AND SECURITY BEST PRACTICES](https://scalebit.xyz/blog/post/Tact-for-TON-Uncovering-Security-Best-Practices.html)
 - [Secure Smart Contract Programming in FunC: Top 10 Tips for TON Developers](https://blog.ton.org/secure-smart-contract-programming-in-func)
+- [Secure Smart Contract Programming](https://docs.ton.org/develop/smart-contracts/security/secure-programming)
+- [Things to Focus on while Working with TON Blockchain](https://docs.ton.org/develop/smart-contracts/security/things-to-focus)
+- [Random number generation](https://docs.ton.org/develop/smart-contracts/guidelines/random-number-generation)
+- [Generation of block random seed](https://docs.ton.org/develop/smart-contracts/security/random)
+
+
 ## CTF
 - TON Hack Challenge
   - [Code](https://github.com/ton-blockchain/hack-challenge-1)
@@ -16,3 +23,6 @@ A curated list of awesome ton security resources
 - [TON Diamonds Web](https://hackenproof.com/programs/ton-diamonds-web)
 - [TON Tapps Bot](https://hackenproof.com/programs/ton-tapps-bot)
 - [TON Web Products](https://hackenproof.com/programs/ton-web-products)
+
+## Security Assurance Providers(SAP)
+- https://docs.ton.org/develop/companies/auditors
