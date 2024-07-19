@@ -9,6 +9,7 @@ A curated list of awesome ton security resources
 - [Generation of block random seed](https://docs.ton.org/develop/smart-contracts/security/random)
 - [TON Connect for Security TON Connect](https://docs.ton.org/develop/dapps/ton-connect/security)
 - [TON Blockchain Security Analysis and Potential Risk Assessment](https://medium.com/@pandaly520/ton-blockchain-security-analysis-and-potential-risk-assessment-00ab4dd9d3a8)
+- [How does the False Top-up attack break through the defense of the exchange?](https://slowmist.medium.com/how-does-the-false-top-up-attack-break-through-the-defense-of-the-exchange-d6e8ebb434f5)
 
 ## CTF
 - TON Hack Challenge
