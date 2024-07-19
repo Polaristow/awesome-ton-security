@@ -1,5 +1,5 @@
 # awesome-ton-security
-A curated list of awesome ton security resources
+**A curated list of awesome ton security resources.**
 ## Articles and Blogs
 - [TACT FOR TON, UNCOVERING THIS LANGUAGE FEATURES AND SECURITY BEST PRACTICES](https://scalebit.xyz/blog/post/Tact-for-TON-Uncovering-Security-Best-Practices.html)
 - [Secure Smart Contract Programming in FunC: Top 10 Tips for TON Developers](https://blog.ton.org/secure-smart-contract-programming-in-func)
@@ -17,6 +17,8 @@ A curated list of awesome ton security resources
   - [Writeup](https://docs.ton.org/develop/smart-contracts/security/ton-hack-challenge-1)
 ## Audit Report
 - [TonBit](https://github.com/TonBitSec/Sampled-Audit-Reports)
+  
+## Hack Event
 
 ## Bug Bounty
 - [TON security bug bounty](https://github.com/ton-blockchain/bug-bounty)
