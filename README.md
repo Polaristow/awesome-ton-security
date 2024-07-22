@@ -21,7 +21,7 @@
 - [TonBit](https://github.com/TonBitSec/Sampled-Audit-Reports)
   
 ## Hack Event
-
+- https://x.com/TonUP_io/status/1793006027413258631
 ## Bug Bounty
 - [TON security bug bounty](https://github.com/ton-blockchain/bug-bounty)
 - [STON.fi](https://github.com/ston-fi/bug-bounty)
