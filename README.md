@@ -26,6 +26,7 @@
   
 ## Hack Event
 - https://x.com/TonUP_io/status/1793006027413258631
+- https://community.tonup.io/t/incident-report-of-tonup-decimal-discrepancy-of-the-deprecated-up-token/504
 ## Bug Bounty
 - [TON security bug bounty](https://github.com/ton-blockchain/bug-bounty)
 - [STON.fi](https://github.com/ston-fi/bug-bounty)
