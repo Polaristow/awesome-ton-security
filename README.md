@@ -15,6 +15,7 @@
 - [How does the False Top-up attack break through the defense of the exchange?](https://slowmist.medium.com/how-does-the-false-top-up-attack-break-through-the-defense-of-the-exchange-d6e8ebb434f5)
 - [Security risk analysis of FunC language in TON blockchain smart contracts](https://exvul.com/security-risk-analysis-of-func-language-in-ton-blockchain-smart-contracts/)
 - [Patch Thursday — Identifying Vulnerabilities in TON: Killing All Nodes](https://medium.com/chainlight/identifying-vulnerabilities-in-ton-killing-all-nodes-3b0db3f370eb)
+- [TON Validator Nodes Maintenance and Security Guide](https://docs.ton.org/participate/nodes/node-maintenance-and-security)
 
 ## CTF
 - TON Hack Challenge
