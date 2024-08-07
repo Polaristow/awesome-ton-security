@@ -36,6 +36,8 @@
 - https://x.com/DegenonTON/status/1783738312966189355
 - https://x.com/tonfish_tg/status/1753829630644273215
 - https://x.com/_yeminiz/status/1788131616943943874
+## Tools
+- [static analysis tool](https://github.com/nowarp/misti)
 ## Bug Bounty
 - [TON security bug bounty](https://github.com/ton-blockchain/bug-bounty)
 - [STON.fi](https://github.com/ston-fi/bug-bounty)
