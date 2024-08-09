@@ -38,7 +38,7 @@
 - https://x.com/tonfish_tg/status/1753829630644273215
 - https://x.com/_yeminiz/status/1788131616943943874
 ## Tools
-- [static analysis tool](https://github.com/nowarp/misti)
+- [Misti](https://github.com/nowarp/misti) – A static program analyzer for smart contracts on the TON Blockchain.
 ## Bug Bounty
 - [TON security bug bounty](https://github.com/ton-blockchain/bug-bounty)
 - [STON.fi](https://github.com/ston-fi/bug-bounty)
