@@ -24,7 +24,7 @@
 - TON Hack Challenge
   - [Code](https://github.com/ton-blockchain/hack-challenge-1)
   - [Writeup](https://docs.ton.org/develop/smart-contracts/security/ton-hack-challenge-1)
-- Ton ctf
+- Tonbit ctf
   - [Tonbit ctf](https://ctf.tonbit.xyz/)
 ## Audit Report
 - [TonBit](https://github.com/TonBitSec/Sampled-Audit-Reports)
