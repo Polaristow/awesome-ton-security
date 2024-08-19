@@ -21,7 +21,7 @@
 - [初识 TON：账号、Token、交易与资产安全](https://mp.weixin.qq.com/s/ElLcWlp6BCWhq1z6K3a1vw)
 - [TON Ecosystem Phishing Prevention Guide](https://beosin.com/resources/ton-ecosystem-phishing-prevention-guide)
 - [How to conduct a comprehensive security audit for projects built on TON?](https://beosin.com/resources/how-to-conduct-a-comprehensive-security-audit-for-projects-built-on-ton?lang=zh-HK)
-
+- [TON Ecosystem Panorama and Security Report 2024](https://tonbit.xyz/reports-page)
 ## CTF
 - TON Hack Challenge
   - [Code](https://github.com/ton-blockchain/hack-challenge-1)
