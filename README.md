@@ -16,14 +16,14 @@
 - [Security risk analysis of FunC language in TON blockchain smart contracts](https://exvul.com/security-risk-analysis-of-func-language-in-ton-blockchain-smart-contracts/)
 - [Patch Thursday — Identifying Vulnerabilities in TON: Killing All Nodes](https://medium.com/chainlight/identifying-vulnerabilities-in-ton-killing-all-nodes-3b0db3f370eb)
 - [TON Validator Nodes Maintenance and Security Guide](https://docs.ton.org/participate/nodes/node-maintenance-and-security)
-- [TonConnect SDK 的 Origin 伪造风险分析](https://mp.weixin.qq.com/s/qiXVmw7b6bX-dY6z1xwHtg)
-- [TON生态安全指南：常见的钓鱼形式有哪些？](https://www.theblockbeats.info/news/53976)
-- [初识 TON：账号、Token、交易与资产安全](https://mp.weixin.qq.com/s/ElLcWlp6BCWhq1z6K3a1vw)
+- [Risk Analysis of Origin Forgery in the TonConnect SDK](https://slowmist.medium.com/risk-analysis-of-origin-forgery-in-the-tonconnect-sdk-e37c7d902b05)
+- [Introduction to TON: Accounts, Tokens, Transactions, and Security](https://slowmist.medium.com/introduction-to-ton-accounts-tokens-transactions-and-asset-security-899a58619fb2)
 - [TON Ecosystem Phishing Prevention Guide](https://beosin.com/resources/ton-ecosystem-phishing-prevention-guide)
 - [How to conduct a comprehensive security audit for projects built on TON?](https://beosin.com/resources/how-to-conduct-a-comprehensive-security-audit-for-projects-built-on-ton?lang=zh-HK)
 - [TON Ecosystem Panorama and Security Report 2024](https://tonbit.xyz/reports-page)
 - [Toncoin Smart Contract Security Best Practices](https://github.com/slowmist/Toncoin-Smart-Contract-Security-Best-Practices)
 - [Beosin硬核研究 | 从风险到防护：TON智能合约的安全隐患与优化建议](https://mp.weixin.qq.com/s/xH_94XzG3kcu0SUEVnui-Q)
+- [TON生态安全指南：常见的钓鱼形式有哪些？](https://www.theblockbeats.info/news/53976)
 ## CTF
 - TON Hack Challenge
   - [Code](https://github.com/ton-blockchain/hack-challenge-1)
