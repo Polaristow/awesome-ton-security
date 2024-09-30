@@ -32,7 +32,8 @@
   - [Tonbit ctf](https://ctf.tonbit.xyz/)
   - [Writeup](https://leoq7.com/2024/09/TON-CTF-2024/)
 - Hack the Ton
-  -[hack the Ton](https://www.hacktheton.com/)
+  - [Hack the Ton](https://www.hacktheton.com/)
+  
 ## Audit Report
 - [TonBit](https://github.com/TonBitSec/Sampled-Audit-Reports)
 - [Certik](https://skynet.certik.com/)
