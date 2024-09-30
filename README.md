@@ -30,6 +30,7 @@
   - [Writeup](https://docs.ton.org/develop/smart-contracts/security/ton-hack-challenge-1)
 - Tonbit ctf
   - [Tonbit ctf](https://ctf.tonbit.xyz/)
+  - [Writeup](https://leoq7.com/2024/09/TON-CTF-2024/)
 ## Audit Report
 - [TonBit](https://github.com/TonBitSec/Sampled-Audit-Reports)
 - [Certik](https://skynet.certik.com/)
