@@ -30,7 +30,8 @@
   - [Writeup](https://docs.ton.org/develop/smart-contracts/security/ton-hack-challenge-1)
 - Tonbit ctf
   - [Tonbit ctf](https://ctf.tonbit.xyz/)
-  - [Writeup](https://leoq7.com/2024/09/TON-CTF-2024/)
+  - [Writeup1](https://leoq7.com/2024/09/TON-CTF-2024/)
+  - [Writeup2](https://blog.zeroc0077.cn/tonctf2024-writeup/)
 - Hack the Ton
   - [Hack the Ton](https://www.hacktheton.com/)
   
