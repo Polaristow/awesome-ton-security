@@ -33,6 +33,7 @@
   - [Writeup1](https://leoq7.com/2024/09/TON-CTF-2024/)
   - [Writeup2](https://blog.zeroc0077.cn/tonctf2024-writeup/)
   - [Writeup3](https://beyondblog.github.io/posts/ton_ctf_2024/)
+  - [Writeup4](https://ambergroup.medium.com/ton-ctf-writeup-afdff959433b)
 - Hack the Ton
   - [Hack the Ton](https://www.hacktheton.com/)
   
