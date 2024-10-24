@@ -40,6 +40,7 @@
 ## Audit Report
 - [TonBit](https://github.com/TonBitSec/Sampled-Audit-Reports)
 - [Certik](https://skynet.certik.com/)
+- [HipoFinance](https://github.com/HipoFinance/audits)
   
 ## Hack Event
 - https://x.com/TonUP_io/status/1793006027413258631
