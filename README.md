@@ -41,6 +41,8 @@
 - [TonBit](https://github.com/TonBitSec/Sampled-Audit-Reports)
 - [Certik](https://skynet.certik.com/)
 - [HipoFinance](https://github.com/HipoFinance/audits)
+- [Aqua Protocol](https://www.beosin.com/audits/Aqua_Protocol_202407221416.pdf)
+- [Aqua Protocol](https://github.com/BugBlow/audits/blob/main/AquaProtocol/Aqua_Security_Audit_BugBlow.pdf)
   
 ## Hack Event
 - https://x.com/TonUP_io/status/1793006027413258631
