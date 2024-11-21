@@ -21,9 +21,11 @@
 - [TON Ecosystem Phishing Prevention Guide](https://beosin.com/resources/ton-ecosystem-phishing-prevention-guide)
 - [How to conduct a comprehensive security audit for projects built on TON?](https://beosin.com/resources/how-to-conduct-a-comprehensive-security-audit-for-projects-built-on-ton?lang=zh-HK)
 - [TON Ecosystem Panorama and Security Report 2024](https://tonbit.xyz/reports-page)
+- [Checklist for Auditing TON Smart Contracts](https://github.com/PositiveSecurity/ton-audit-guide)
 - [Toncoin Smart Contract Security Best Practices](https://github.com/slowmist/Toncoin-Smart-Contract-Security-Best-Practices)
 - [Beosin硬核研究 | 从风险到防护：TON智能合约的安全隐患与优化建议](https://mp.weixin.qq.com/s/xH_94XzG3kcu0SUEVnui-Q)
 - [TON生态安全指南：常见的钓鱼形式有哪些？](https://www.theblockbeats.info/news/53976)
+
 ## CTF
 - TON Hack Challenge
   - [Code](https://github.com/ton-blockchain/hack-challenge-1)
