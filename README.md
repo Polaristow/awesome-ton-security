@@ -4,6 +4,7 @@
 **A curated list of awesome Ton security resources, continuously updated.**
 ---
 ## Articles and Blogs
+- [Secure Smart Contract Programming in Tact: Popular Mistakes in the TON Ecosystem](https://www.certik.com/zh-CN/resources/blog/50K1u523Q85iEGDsx9z70z-secure-smart-contract-programming-in-tact-popular-mistakes-in-the-ton)
 - [Discovers Critical Vulnerability in TON VM Root Cause and Mitigation Explained](https://www.tonbit.xyz/blog/post/TonBit-a-Subsidiary-of-BitsLab-Discovers-Critical-Vulnerability-in-TON-VM_%20Root-Cause-and-Mitigation-Explained.html)
 - [TACT FOR TON, UNCOVERING THIS LANGUAGE FEATURES AND SECURITY BEST PRACTICES](https://scalebit.xyz/blog/post/Tact-for-TON-Uncovering-Security-Best-Practices.html)
 - [Secure Smart Contract Programming in FunC: Top 10 Tips for TON Developers](https://blog.ton.org/secure-smart-contract-programming-in-func)
