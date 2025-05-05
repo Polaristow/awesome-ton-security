@@ -27,6 +27,7 @@
 - [Toncoin Smart Contract Security Best Practices](https://github.com/slowmist/Toncoin-Smart-Contract-Security-Best-Practices)
 - [Beosin硬核研究 | 从风险到防护：TON智能合约的安全隐患与优化建议](https://mp.weixin.qq.com/s/xH_94XzG3kcu0SUEVnui-Q)
 - [TON生态安全指南：常见的钓鱼形式有哪些？](https://www.theblockbeats.info/news/53976)
+- [TON Security Risks: A Static Analysis Perspective](https://nowarp.io/blog/ton-security-risks)
 
 ## CTF
 - TON Hack Challenge
