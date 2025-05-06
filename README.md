@@ -66,8 +66,8 @@
 - [Tonstakers](https://skynet.certik.com/zh-CN/projects/tonstakers)
 - [Ton Whales](https://tonwhales.com/bounty)
 - [TON Diamonds Web](https://hackenproof.com/programs/ton-diamonds-web)
-- [TON Tapps Bot](https://hackenproof.com/programs/ton-tapps-bot)
-- [TON Web Products](https://hackenproof.com/programs/ton-web-products)
+- [Telegram Apps Center](https://hackenproof.com/programs/telegram-apps-center)
+- [STON.fi DEX Smart Contracts v2](https://hackenproof.com/programs/ston-dot-fi-dex-smart-contracts-v2)
 
 ## Security Assurance Providers(SAP)
 - https://docs.ton.org/develop/companies/auditors
