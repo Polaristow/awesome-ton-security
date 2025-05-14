@@ -71,5 +71,8 @@
 - [Telegram Apps Center](https://hackenproof.com/programs/telegram-apps-center)
 - [STON.fi DEX Smart Contracts v2](https://hackenproof.com/programs/ston-dot-fi-dex-smart-contracts-v2)
 
-## Security Assurance Providers(SAP)
-- https://docs.ton.org/develop/companies/auditors
+## Auditors
+- [TON Talent Directory](https://ton.org/en/talents)
+  - [Agencies](https://ton.org/en/talents?Agency) – small companies and teams in the ecosystem, including auditors
+  - [Auditors](https://ton.org/en/talents?Auditors) – established security firms
+- [ton.app: Smart Contract Audit](https://ton.app/audit) – moderated, community-driven auditors list
