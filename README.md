@@ -26,9 +26,10 @@
 - [Checklist for Auditing TON Smart Contracts](https://github.com/PositiveSecurity/ton-audit-guide)
 - [Toncoin Smart Contract Security Best Practices](https://github.com/slowmist/Toncoin-Smart-Contract-Security-Best-Practices)
 - [Beosin硬核研究 | 从风险到防护：TON智能合约的安全隐患与优化建议](https://mp.weixin.qq.com/s/xH_94XzG3kcu0SUEVnui-Q)
-- [TON生态安全指南：常见的钓鱼形式有哪些？](https://www.theblockbeats.info/news/53976)
+- [TON Ecosystem Security Guide: What are the common forms of fishing?]([https://www.theblockbeats.info/news/53976](https://www.bitget.com/news/detail/12560604065091))
 - [TON Security Risks: A Static Analysis Perspective](https://nowarp.io/blog/ton-security-risks)
 - [BitsLab’s TonBit, Once Again Discovers a Vulnerability in the TON Virtual Machine: RUNVM](https://defihacklabs.substack.com/p/bitslabs-tonbit-once-again-discovers)
+- [TON Security Primer: Part 1](https://www.zellic.io/blog/ton-security-primer/)
   
 ## CTF
 - TON Hack Challenge
