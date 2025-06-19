@@ -66,6 +66,7 @@
 - https://x.com/_yeminiz/status/1788131616943943874
 ## Tools
 - [Misti](https://github.com/nowarp/misti) – A static program analyzer for smart contracts on the TON Blockchain.
+- [Nowarp Scanner](https://nowarp.io/tools/scanner/) – A mass-scan solution for TON smart contracts that demonstrates tooling capabilities and promotes Tact best practices.
 ## Bug Bounty
 - [TON security bug bounty](https://github.com/ton-blockchain/bug-bounty)
 - [STON.fi](https://github.com/ston-fi/bug-bounty)
