@@ -31,6 +31,7 @@
 - [BitsLab’s TonBit, Once Again Discovers a Vulnerability in the TON Virtual Machine: RUNVM](https://defihacklabs.substack.com/p/bitslabs-tonbit-once-again-discovers)
 - [TON Security Primer: Part 1](https://www.zellic.io/blog/ton-security-primer/)
 - [Security audit of smart contracts in TON: key mistakes and tips](https://blog.positive.com/security-audit-of-smart-contracts-in-ton-key-mistakes-and-tips-33ff3502cfd7)
+- [Secure Contract Development in TON: Top 9 Pitfalls in Tact & FunC](https://cantina.xyz/blog/secure-contract-development-ton-smart-contract-pitfalls)
   
 ## CTF
 - TON Hack Challenge
