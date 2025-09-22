@@ -1,9 +1,11 @@
 # awesome-ton-security[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![](/image/ton_logo_light_background.png)
----
-**A curated list of awesome Ton security resources, continuously updated.**
----
+
+## ![](/image/ton_logo_light_background.png)
+
+## **A curated list of awesome Ton security resources, continuously updated.**
+
 ## Articles and Blogs
+
 - [Secure Smart Contract Programming in Tact: Popular Mistakes in the TON Ecosystem](https://www.certik.com/zh-CN/resources/blog/50K1u523Q85iEGDsx9z70z-secure-smart-contract-programming-in-tact-popular-mistakes-in-the-ton)
 - [Discovers Critical Vulnerability in TON VM Root Cause and Mitigation Explained](https://www.tonbit.xyz/blog/post/TonBit-a-Subsidiary-of-BitsLab-Discovers-Critical-Vulnerability-in-TON-VM_%20Root-Cause-and-Mitigation-Explained.html)
 - [TACT FOR TON, UNCOVERING THIS LANGUAGE FEATURES AND SECURITY BEST PRACTICES](https://scalebit.xyz/blog/post/Tact-for-TON-Uncovering-Security-Best-Practices.html)
@@ -25,15 +27,17 @@
 - [TON Ecosystem Panorama and Security Report 2024](https://tonbit.xyz/reports-page)
 - [Checklist for Auditing TON Smart Contracts](https://github.com/PositiveSecurity/ton-audit-guide)
 - [Toncoin Smart Contract Security Best Practices](https://github.com/slowmist/Toncoin-Smart-Contract-Security-Best-Practices)
-- [Beosin硬核研究 | 从风险到防护：TON智能合约的安全隐患与优化建议](https://mp.weixin.qq.com/s/xH_94XzG3kcu0SUEVnui-Q)
+- [Beosin 硬核研究 | 从风险到防护：TON 智能合约的安全隐患与优化建议](https://mp.weixin.qq.com/s/xH_94XzG3kcu0SUEVnui-Q)
 - [TON Ecosystem Security Guide: What are the common forms of fishing?](https://www.bitget.com/news/detail/12560604065091)
 - [TON Security Risks: A Static Analysis Perspective](https://nowarp.io/blog/ton-security-risks)
 - [BitsLab’s TonBit, Once Again Discovers a Vulnerability in the TON Virtual Machine: RUNVM](https://defihacklabs.substack.com/p/bitslabs-tonbit-once-again-discovers)
 - [TON Security Primer: Part 1](https://www.zellic.io/blog/ton-security-primer/)
 - [Security audit of smart contracts in TON: key mistakes and tips](https://blog.positive.com/security-audit-of-smart-contracts-in-ton-key-mistakes-and-tips-33ff3502cfd7)
 - [Secure Contract Development in TON: Top 9 Pitfalls in Tact & FunC](https://cantina.xyz/blog/secure-contract-development-ton-smart-contract-pitfalls)
-  
+- [From Paradigm Shift to Audit Rift: Exploring Vulnerabilities and Audit Tips for TON Smart Contracts](https://arxiv.org/abs/2509.10823)
+
 ## CTF
+
 - TON Hack Challenge
   - [Code](https://github.com/ton-blockchain/hack-challenge-1)
   - [Writeup](https://docs.ton.org/develop/smart-contracts/security/ton-hack-challenge-1)
@@ -48,16 +52,18 @@
 - PositiveCTF
   - [PositiveCTF](https://positive.com/ctf)
   - [GitHub Edition](https://github.com/PositiveSecurity/PositiveCTF-TON)
-  
+
 ## Audit Report
+
 - [TonBit](https://github.com/TonBitSec/Sampled-Audit-Reports)
 - [Certik](https://skynet.certik.com/)
 - [HipoFinance](https://github.com/HipoFinance/audits)
 - [Nowarp](https://github.com/nowarp/public-reports)
 - [Aqua Protocol](https://www.beosin.com/audits/Aqua_Protocol_202407221416.pdf)
 - [Aqua Protocol](https://github.com/BugBlow/audits/blob/main/AquaProtocol/Aqua_Security_Audit_BugBlow.pdf)
-  
+
 ## Hack Event
+
 - https://x.com/TonUP_io/status/1793006027413258631
 - https://community.tonup.io/t/incident-report-of-tonup-decimal-discrepancy-of-the-deprecated-up-token/504
 - https://x.com/MetaTrustAlert/status/1769956360135844284
@@ -66,10 +72,14 @@
 - https://x.com/DegenonTON/status/1783738312966189355
 - https://x.com/tonfish_tg/status/1753829630644273215
 - https://x.com/_yeminiz/status/1788131616943943874
+
 ## Tools
+
 - [Misti](https://github.com/nowarp/misti) – A static program analyzer for smart contracts on the TON Blockchain.
 - [Nowarp Scanner](https://nowarp.io/tools/scanner/) – A mass-scan solution for TON smart contracts that demonstrates tooling capabilities and promotes Tact best practices.
+
 ## Bug Bounty
+
 - [TON security bug bounty](https://github.com/ton-blockchain/bug-bounty)
 - [STON.fi](https://github.com/ston-fi/bug-bounty)
 - [Tonstakers](https://skynet.certik.com/zh-CN/projects/tonstakers)
@@ -79,6 +89,7 @@
 - [STON.fi DEX Smart Contracts v2](https://hackenproof.com/programs/ston-dot-fi-dex-smart-contracts-v2)
 
 ## Auditors
+
 - [TON Talent Directory](https://ton.org/en/talents)
   - [Agencies](https://ton.org/en/talents?Agency) – small companies and teams in the ecosystem, including auditors
   - [Auditors](https://ton.org/en/talents?Auditors) – established security firms
