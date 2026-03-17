@@ -77,6 +77,7 @@
 
 - [Misti](https://github.com/nowarp/misti) – A static program analyzer for smart contracts on the TON Blockchain.
 - [Nowarp Scanner](https://nowarp.io/tools/scanner/) – A mass-scan solution for TON smart contracts that demonstrates tooling capabilities and promotes Tact best practices.
+- [TON Symbolic Analyzer](https://tonsec.dev/) - A static analysis tool that uses symbolic execution to perform automated security verification for TON smart contracts.
 
 ## Bug Bounty
 
