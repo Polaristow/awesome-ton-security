@@ -79,6 +79,13 @@
 - [Nowarp Scanner](https://nowarp.io/tools/scanner/) – A mass-scan solution for TON smart contracts that demonstrates tooling capabilities and promotes Tact best practices.
 - [TON Symbolic Analyzer](https://tonsec.dev/) - A static analysis tool that uses symbolic execution to perform automated security verification for TON smart contracts.
 
+## Skills
+
+- [Trail of Bits: ton-vulnerability-scanner](https://github.com/trailofbits/skills/tree/main/plugins/building-secure-contracts/skills/ton-vulnerability-scanner)
+- [elsvv/ton-best-practices-skill](https://github.com/elsvv/ton-best-practices-skill)
+- [espritoxyz/ton-ai-audit-skill](https://github.com/espritoxyz/ton-ai-audit-skill)
+- [sanbir/ton-auditor-skills](https://github.com/sanbir/ton-auditor-skills)
+
 ## Bug Bounty
 
 - [TON security bug bounty](https://github.com/ton-blockchain/bug-bounty)
