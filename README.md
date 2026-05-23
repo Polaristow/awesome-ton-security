@@ -79,6 +79,7 @@
 - [Nowarp Scanner](https://nowarp.io/tools/scanner/) – A mass-scan solution for TON smart contracts that demonstrates tooling capabilities and promotes Tact best practices.
 - [TON Symbolic Analyzer](https://tonsec.dev/) - A static analysis tool that uses symbolic execution to perform automated security verification for TON smart contracts.
 - [tolk-less](https://github.com/jubnzv/tolk-less) – A small Tolk compiler fuzzer focused on arithmetic miscompilations
+- [Universalmutator](https://github.com/agroce/universalmutator) - A mutation testing utility for TON smart contracts written in Tolk, FunC and Tact, with support for custom mutation rules. Helps evaluate test robustness and identify weaknesses in test coverage.
 
 ## Skills
 
