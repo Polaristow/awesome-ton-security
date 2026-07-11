@@ -81,6 +81,7 @@
 - [tolk-less](https://github.com/jubnzv/tolk-less) – A small Tolk compiler fuzzer focused on arithmetic miscompilations
 - [Universalmutator](https://github.com/agroce/universalmutator) - A mutation testing utility for TON smart contracts written in Tolk, FunC and Tact, with support for custom mutation rules. Helps evaluate test robustness and identify weaknesses in test coverage.
 - [TON Jetton Risk API](https://github.com/mrvlyouknowwho/ton-jetton-risk-api) – A pay-per-call API that screens TON jettons for rug/honeypot risk (mint authority, holder concentration, DEX liquidity, taxable transfers) before you trade. Open docs, free trial.
+- [RugLens](https://github.com/mrvlyouknowwho/ruglens) – A Telegram bot (@RugLens_bot) that screens TON jettons and EVM tokens for rug/honeypot risk in chat: mint authority, admin keys, holder concentration, DEX liquidity, live sell simulation. MIT, self-hostable.
 
 ## Skills
 
